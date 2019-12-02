@@ -3,4 +3,4 @@ __Responsive, simple and sweet website for "Pizza Italiana"__ <br />
 Gulp has been used for optimizing , minification, compiling(SASS2CSS)
 _____________________________
 On Github Page:
-https://mrjeyhun.github.io/Architect/
+https://mrjeyhun.github.io/PizzaItaliana/
